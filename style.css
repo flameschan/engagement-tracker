@@ -1,5 +1,66 @@
 body {
-2
-font-family: Segoe UI;
-3
+
+font-family: Segoe UI, Arial, sans-serif;
+margin: 40px;
+
+background: #f4f6f9;
+
+}
+
+ 
+
+h1 {
+
+color: #003366;
+
+}
+
+ 
+
+.card-container {
+
+display: flex;
+
+gap: 20px;
+
+margin-bottom: 30px;
+
+}
+
+ 
+
+.card {
+
+background: white;
+
+padding: 20px;
+
+border-radius: 10px;
+
+width: 180px;
+
+box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+
+}
+
+ 
+
+.card h2 {
+
+margin: 0;
+
+color: #0066cc;
+
+}
+
+ 
+
+.updates {
+
+background: white;
+
+padding: 20px;
+
+border-radius: 10px;
+
 }
